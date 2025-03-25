@@ -1,4 +1,5 @@
 -- @thom463s
+-- Insert into StarterCharacterScripts or clone it into your character
 wait(3)
 
 local character = script.Parent
